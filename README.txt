@@ -1,28 +1,21 @@
-Título do Projeto
+Desafio LightHouse
 
-Breve descrição do projeto e seu objetivo.
 Conteúdo do Notebook
 
-    1. Introdução
-        Breve descrição do contexto do projeto e dos dados utilizados.
-
-    2. Análise Exploratória de Dados (AED)
+    1. Análise Exploratória de Dados (AED)
         Visão geral dos dados.
         Estatísticas descritivas.
-        Visualizações (gráficos de barras, histogramas, boxplots, matriz de correlação, etc.).
-        Insights e observações importantes obtidos durante a análise exploratória.
-
-    3. Tratamento de Dados
+        
+    2. Tratamento de Dados
         Limpeza de dados (remoção de duplicatas, tratamento de valores ausentes, correção de valores incorretos, etc.).
         Transformação de dados (normalização, codificação de variáveis categóricas, etc.).
         Engenharia de características (criação de novas características a partir das existentes, seleção de características, etc.).
 
-    4. Treinamento do Modelo
+    3. Treinamento do Modelo
         Escolha do modelo de machine learning adequado para o problema.
         Preparação dos dados para treinamento (separação em conjunto de treinamento e teste, escalonamento, etc.).
         Treinamento do modelo.
-        Avaliação do modelo (métricas de desempenho, matriz de confusão, curvas ROC, etc.).
-        Ajustes do modelo (otimização de hiperparâmetros, validação cruzada, etc.).
+        Avaliação do modelo
 
 Dependências
 
@@ -75,6 +68,7 @@ No macOS e Linux:
     jupyter notebook
 
 8. No navegador, abra o arquivo do notebook (EDA&MODELO.ipynb) e execute as células conforme necessário.
+9. Ao final das células de código, um arquivo chamado model.pkl será criado com o modelo utilizado para uso posterior.
 
 Autor
 João Pedro Bonatti Soares
